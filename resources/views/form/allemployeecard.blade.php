@@ -140,9 +140,7 @@
                                         <label class="col-form-label">Company</label>
                                         <select class="select select2s-hidden-accessible" style="width: 100%;" tabindex="-1" aria-hidden="true" id="company" name="company">
                                             <option value="">-- Select --</option>
-                                            @foreach ($userList as $key=>$user )
-                                                <option value="{{ $user->name }}">{{ $user->name }}</option>
-                                            @endforeach
+                                            <option value="">Vorn Co., Ltd.</option>
                                         </select>
                                     </div>
                                 </div>

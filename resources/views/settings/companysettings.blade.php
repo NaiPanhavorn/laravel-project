@@ -88,6 +88,7 @@
                                         <option>Pursat</option>
                                         <option>Kan dal</option>
                                         <option>Ta Keav</option>
+                                        <option>Battambang</option>
                                     </select>
                                 </div>
                             </div>
